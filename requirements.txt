@@ -4,4 +4,4 @@ reportlab==3.6.12
 requests==2.28.2
 Pillow==9.5.0
 werkzeug==2.2.3
-hashlib==20081119
+hashlib
